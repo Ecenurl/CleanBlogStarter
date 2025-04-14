@@ -1,0 +1,27 @@
+{
+  "name": "cleanblogstarter",
+  "version": "1.0.0",
+  "description": "CleanBlog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecenurl/CleanBlogStarter.git"
+  },
+  "keywords": [
+    "clean",
+    "blog",
+    "starter"
+  ],
+  "author": "ecce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ecenurl/CleanBlogStarter/issues"
+  },
+  "homepage": "https://github.com/Ecenurl/CleanBlogStarter#readme",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
